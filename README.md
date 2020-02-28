@@ -16,10 +16,10 @@
 ![4th screenshoot](https://raw.githubusercontent.com/badawi1713/library-app-layout/master/public/images/screenshoot/4.png)
 
 #### Also this is the result of the homepage with responsive display.
-![5th screenshoot](https://raw.githubusercontent.com/badawi1713/library-app-layout/master/public/images/screenshoot/5.png)
+![5th screenshoot](https://raw.githubusercontent.com/badawi1713/library-app-layout/master/public/images/screenshoot/5.PNG)
 
 #### Also this is the result of the homepage with responsive display.
-![6th screenshoot](https://raw.githubusercontent.com/badawi1713/library-app-layout/master/public/images/screenshoot/6.png)
+![6th screenshoot](https://raw.githubusercontent.com/badawi1713/library-app-layout/master/public/images/screenshoot/6.PNG)
 
 #### Also this is the result of the homepage with responsive display.
 ![7th screenshoot](https://raw.githubusercontent.com/badawi1713/library-app-layout/master/public/images/screenshoot/7.png)
